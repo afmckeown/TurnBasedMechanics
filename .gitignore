@@ -7,6 +7,17 @@
 *.userosscache
 *.sln.docstates
 
+#Unity
+.DS_Store
+Library
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.suo
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
